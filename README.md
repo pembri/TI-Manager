@@ -35,4 +35,5 @@
 ## Screenshot
 
 
-![Screenshot](./assets/ti-manager-screenshot.png)
+![Screenshot](https://github.com/pembri/TI-Manager/blob/main/Screenshot%20from%202025-11-29%2001-27-08.png)
+![Screenshot](https://github.com/pembri/TI-Manager/blob/main/Screenshot%20from%202025-11-29%2001-27-57.png)
